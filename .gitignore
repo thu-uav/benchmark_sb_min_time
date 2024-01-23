@@ -13,4 +13,4 @@ open_list.csv
 roadmap_*.csv
 results.log
 min_time_py/
-blender/*
+maps/*

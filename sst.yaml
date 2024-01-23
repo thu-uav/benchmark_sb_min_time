@@ -30,7 +30,7 @@ reaching_gate_time_ratio_to_pmm: 1.05
 
 # racing specs begin
 # check_collisions: true
-# map: blender/racing.ply.npy
+# map: maps/racing.ply.npy
 # map_type: ESDF
 # min_clearance: 0.15
 # start:
@@ -45,7 +45,7 @@ reaching_gate_time_ratio_to_pmm: 1.05
 
 # forest-mid begin
 # check_collisions: true
-# map: blender/forest-mid.ply.npy
+# map: maps/forest-mid.ply.npy
 # map_type: ESDF
 # min_clearance: 0.15
 # start:
@@ -60,7 +60,7 @@ reaching_gate_time_ratio_to_pmm: 1.05
 
 # office low begin
 check_collisions: true
-map: blender/office.ply.npy
+map: maps/office.ply.npy
 map_type: ESDF
 min_clearance: 0.15
 start:
