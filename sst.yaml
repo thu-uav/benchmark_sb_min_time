@@ -83,7 +83,7 @@ end_vel_distance_tolerance: 4.0
   
 goal_bias: 0.05
 
-max_num_iterations: 2000000
+max_num_iterations: 3000000
 max_num_iterations_wo_impr: 200000
 desired_num_reference_samples: 10000.0
 rotation_sample_mult_ratio: 50.0
@@ -114,5 +114,5 @@ ds: 0.50
 #topological PRM Parameters
 cutoof_distance_ratio_to_shortest: 1.05 #what is the ration of length compared to shortest, when paths are not considered
 ellipse_ratio_major_axis_focal_length: 1.25 # ratio between length of 2 major axis and focal length
-collision_distance_check: 0.15
-num_samples_between_gate: 300
+collision_distance_check: 0.17
+num_samples_between_gate: 400

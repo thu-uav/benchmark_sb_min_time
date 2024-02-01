@@ -56,7 +56,7 @@ Start the environment and activate it using:<br />
 Afterwards install the python dependencies using pip (or pip3 if python3 is not default):<br />
 `pip install wheel`<br />
 `pip install pyopengl==3.1.0`<br />
-`pip install numpy trimesh matplotlib mesh_to_sdf python-csv`
+`pip install numpy trimesh matplotlib mesh_to_sdf open3d python-csv`
 
 When the dependencies are installed run the following commands in the python folder to create the ESDF maps.
 `./map.py ../blender/random_columns.obj`<br />

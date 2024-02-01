@@ -3,7 +3,7 @@
 .vscode/
 main
 obj/
-env/
+sbpy/
 path_dense.csv
 path.csv
 samples.csv

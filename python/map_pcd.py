@@ -6,7 +6,6 @@ import numpy as np
 import numpy.typing
 import trimesh
 import matplotlib.pyplot as plt
-from mesh_to_sdf import mesh_to_voxels
 from mpl_toolkits.mplot3d import axes3d, Axes3D
 import time
 import csv
