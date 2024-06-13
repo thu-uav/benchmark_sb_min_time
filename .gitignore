@@ -14,3 +14,5 @@ roadmap_*.csv
 results.log
 min_time_py/
 maps/*
+res/*
+lib/

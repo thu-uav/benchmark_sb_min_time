@@ -4,7 +4,7 @@
 import os, sys
 import numpy as np
 import numpy.typing
-import trimesh
+# import trimesh
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import axes3d, Axes3D
 import time
